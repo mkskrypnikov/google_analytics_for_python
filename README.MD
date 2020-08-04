@@ -95,7 +95,8 @@ x1.to_csv('ga_new.csv', index=False, header=True, sep=';', encoding='utf8')
 print(dt.now() - start_time)
 ```
 
-файлы
-analytics.dat
-client_secret.json
+файлы:
+* analytics.dat
+* client_secret.json
+
 содержат данные для авторизации и обновления api ключа
